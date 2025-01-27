@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Juliano, seu lindo! ❤️</h1>
+    <h1>Danilo, seu lindo! ❤️</h1>
   );
 }
 
