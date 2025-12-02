@@ -1,4 +1,4 @@
 function Home() {
-    return <h1>Oi Lincoln! Você é foda.</h1>;
+    return <h1>Jubs! Eu te amo ❤️👨🏻‍💻</h1>;
 }
 export default Home;
